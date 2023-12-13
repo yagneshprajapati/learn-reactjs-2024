@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/learn-reactjs-2024/static/css/main.60bb2c7c.css",
+    "main.js": "/learn-reactjs-2024/static/js/main.ba4a40ee.js",
+    "static/js/787.1937f22b.chunk.js": "/learn-reactjs-2024/static/js/787.1937f22b.chunk.js",
+    "static/media/logo.svg": "/learn-reactjs-2024/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/learn-reactjs-2024/index.html",
+    "main.60bb2c7c.css.map": "/learn-reactjs-2024/static/css/main.60bb2c7c.css.map",
+    "main.ba4a40ee.js.map": "/learn-reactjs-2024/static/js/main.ba4a40ee.js.map",
+    "787.1937f22b.chunk.js.map": "/learn-reactjs-2024/static/js/787.1937f22b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60bb2c7c.css",
+    "static/js/main.ba4a40ee.js"
+  ]
+}
